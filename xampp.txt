@@ -1,0 +1,4 @@
+startar xampp >>  Apache >> htdocs >> pastas ..
+
+acesso >> localhost/"nomeDaPasta"/"nomeDoArquivo"
+
